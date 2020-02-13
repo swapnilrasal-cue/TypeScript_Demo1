@@ -1,0 +1,16 @@
+var str = 'swapnil';
+console.log(str);
+var age1 = 23;
+console.log(age1);
+// let age2 : number = '23';
+// console.log(age2);
+var pass = true;
+// // let array1 : Array<number>;
+// // array1=['sfsfa','sfsfa','sfsaaf'];
+// // console.log(array1);
+var array2;
+array2 = ['sfsf', 'sfsf', 'sfsaf'];
+console.log(array2);
+var array3;
+array3 = ['asda', 13, 'eee', 444];
+console.log(array3);
